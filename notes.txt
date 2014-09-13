@@ -38,3 +38,7 @@ git log
 	show all commits made 
 
 
+git log --oneline 
+	show all commits in one line 
+
+s
