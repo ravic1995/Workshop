@@ -25,3 +25,16 @@ git status
 GiT dosen't track files on its own 
 need to suppy with a command to make it track 
 
+.gitignore 
+	tell git that it should completely ignore a certain file 
+
+git add 
+	tells git to start tracking a specific file or folder.. 
+
+git commit 
+	commit changes to repository 
+
+git log 
+	show all commits made 
+
+
