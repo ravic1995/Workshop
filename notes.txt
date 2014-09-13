@@ -45,8 +45,14 @@ git log --oneline
 
 git diff <old> <new> 
 	shows us what has changed between any 2 commits 
-
+fadfa
+dfadf
+adfaadaadf
+daf
 git diff
 	shows us what has changed between working directory and staging area 
+
+git add -p
+	lets us selectively stage 
 
 
