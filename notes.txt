@@ -58,7 +58,11 @@ git add -p
 git checkout 
 	switches to that branch/commt / etc 
 
-s
+git revert <comit>
+	reverse the file changes 
+
+
+
 
 
 
