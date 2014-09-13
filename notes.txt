@@ -62,7 +62,15 @@ git revert <comit>
 	reverse the file changes 
 
 
+git branch (name of brach)
+introduce or create a new branch ..
 
+git checkout (branch name)
+	changes the active branch to another brach 
+
+git branch 
+	check the branches on the git 
+ 
 
 
 
