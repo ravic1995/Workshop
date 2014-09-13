@@ -21,6 +21,8 @@ git init
 
 git status 
 	tells us what the status of the file is 
+	compares the files in working directory and staging area 
+	comapres all the threee stages. 
 
 GiT dosen't track files on its own 
 need to suppy with a command to make it track 
