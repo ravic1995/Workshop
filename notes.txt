@@ -71,6 +71,9 @@ git checkout (branch name)
 git branch 
 	check the branches on the git 
  
+git remote add origin [url]
+	adds a git remote with the name origins 
+
 
 
 
