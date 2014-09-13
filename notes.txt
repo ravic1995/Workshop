@@ -55,4 +55,11 @@ git diff
 git add -p
 	lets us selectively stage 
 
+git checkout 
+	switches to that branch/commt / etc 
+
+s
+
+
+
 
