@@ -43,4 +43,10 @@ git log
 git log --oneline 
 	show all commits in one line 
 
-s
+git diff <old> <new> 
+	shows us what has changed between any 2 commits 
+
+git diff
+	shows us what has changed between working directory and staging area 
+
+
